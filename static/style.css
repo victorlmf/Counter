@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+    margin: auto;
+    align-items: center;
+}
+
+p {
+    font-size: 30px;
+}
+
+#btn-1, #btn-2 {
+    font-size: 20px;
+    margin: 0 20px;
+    padding: 10px;
+    border-radius: 10%;
+    cursor: pointer;
+    background-color: lightskyblue;
+}
+
+#btn-2 {
+    background-color: red;
+}
+
+.input {
+    margin: 20px;
+}
